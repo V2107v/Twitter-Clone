@@ -966,11 +966,13 @@ id left
 id light
 id line1
 id line3
+id list
 id listMode
 id listView
 id list_item
 id loading_indicator
 id logo_only
+id logout
 id main_container
 id match_global_nicknames
 id match_parent
@@ -1070,10 +1072,12 @@ id title_view
 id toolbar
 id top
 id topPanel
+id tweet
 id up
 id url
 id useLogo
 id username
+id viewFeed
 id wide
 id withText
 id wrap
@@ -1110,6 +1114,7 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout activity_main
+layout activity_my_feed
 layout activity_users
 layout cast_expanded_controller_activity
 layout cast_help_text
@@ -1136,6 +1141,7 @@ layout select_dialog_item_material
 layout select_dialog_multichoice_material
 layout select_dialog_singlechoice_material
 layout support_simple_spinner_dropdown_item
+menu t_menu
 mipmap ic_launcher
 raw gtm_analytics
 string abc_action_bar_home_description

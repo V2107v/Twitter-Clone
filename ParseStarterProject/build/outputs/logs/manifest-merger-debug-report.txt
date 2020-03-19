@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\HP\AndroidStudioProjects\Twitter Clone\ParseStarterProject\src\main\AndroidManifest.xml:2:1-28:12
-INJECTED from C:\Users\HP\AndroidStudioProjects\Twitter Clone\ParseStarterProject\src\main\AndroidManifest.xml:2:1-28:12
-INJECTED from C:\Users\HP\AndroidStudioProjects\Twitter Clone\ParseStarterProject\src\main\AndroidManifest.xml:2:1-28:12
-INJECTED from C:\Users\HP\AndroidStudioProjects\Twitter Clone\ParseStarterProject\src\main\AndroidManifest.xml:2:1-28:12
+ADDED from C:\Users\HP\AndroidStudioProjects\Twitter Clone\ParseStarterProject\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\HP\AndroidStudioProjects\Twitter Clone\ParseStarterProject\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\HP\AndroidStudioProjects\Twitter Clone\ParseStarterProject\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\HP\AndroidStudioProjects\Twitter Clone\ParseStarterProject\src\main\AndroidManifest.xml:2:1-29:12
 MERGED from [com.google.android.gms:play-services:9.4.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\b10e34a49063926aec5d3432f4a49550\play-services-9.4.0\AndroidManifest.xml:2:1-6:12
 MERGED from [com.android.support:multidex:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\d89db12d2aa54a292991f7792a393486\multidex-1.0.0\AndroidManifest.xml:16:1-19:12
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\f0b606c9fced75b8c2c36f0323cf799c\constraint-layout-1.1.3\AndroidManifest.xml:2:1-11:12
@@ -58,20 +58,20 @@ MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\HP\.g
 MERGED from [com.android.support:mediarouter-v7:23.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\cbf7473a0e12859cdfb8e10ea9d1db7b\mediarouter-v7-23.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.support:appcompat-v7:23.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\e6ac0e574fd09e4a311f93d4e338d56f\appcompat-v7-23.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.support:support-v4:23.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\04ae98698b6eaf0097d5c312d1bd6f7e\support-v4-23.0.0\AndroidManifest.xml:17:1-24:12
-INJECTED from C:\Users\HP\AndroidStudioProjects\Twitter Clone\ParseStarterProject\src\main\AndroidManifest.xml:2:1-28:12
-INJECTED from C:\Users\HP\AndroidStudioProjects\Twitter Clone\ParseStarterProject\src\main\AndroidManifest.xml:2:1-28:12
-INJECTED from C:\Users\HP\AndroidStudioProjects\Twitter Clone\ParseStarterProject\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\HP\AndroidStudioProjects\Twitter Clone\ParseStarterProject\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\HP\AndroidStudioProjects\Twitter Clone\ParseStarterProject\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\HP\AndroidStudioProjects\Twitter Clone\ParseStarterProject\src\main\AndroidManifest.xml:2:1-29:12
 	package
 		ADDED from C:\Users\HP\AndroidStudioProjects\Twitter Clone\ParseStarterProject\src\main\AndroidManifest.xml:3:5-32
 		INJECTED from C:\Users\HP\AndroidStudioProjects\Twitter Clone\ParseStarterProject\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\HP\AndroidStudioProjects\Twitter Clone\ParseStarterProject\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\HP\AndroidStudioProjects\Twitter Clone\ParseStarterProject\src\main\AndroidManifest.xml
-		ADDED from C:\Users\HP\AndroidStudioProjects\Twitter Clone\ParseStarterProject\src\main\AndroidManifest.xml:2:1-28:12
+		ADDED from C:\Users\HP\AndroidStudioProjects\Twitter Clone\ParseStarterProject\src\main\AndroidManifest.xml:2:1-29:12
 		INJECTED from C:\Users\HP\AndroidStudioProjects\Twitter Clone\ParseStarterProject\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\HP\AndroidStudioProjects\Twitter Clone\ParseStarterProject\src\main\AndroidManifest.xml
-		ADDED from C:\Users\HP\AndroidStudioProjects\Twitter Clone\ParseStarterProject\src\main\AndroidManifest.xml:2:1-28:12
+		ADDED from C:\Users\HP\AndroidStudioProjects\Twitter Clone\ParseStarterProject\src\main\AndroidManifest.xml:2:1-29:12
 		INJECTED from C:\Users\HP\AndroidStudioProjects\Twitter Clone\ParseStarterProject\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\HP\AndroidStudioProjects\Twitter Clone\ParseStarterProject\src\main\AndroidManifest.xml:2:11-69
@@ -134,7 +134,7 @@ ADDED from C:\Users\HP\AndroidStudioProjects\Twitter Clone\ParseStarterProject\s
 	android:name
 		ADDED from C:\Users\HP\AndroidStudioProjects\Twitter Clone\ParseStarterProject\src\main\AndroidManifest.xml:8:22-76
 application
-ADDED from C:\Users\HP\AndroidStudioProjects\Twitter Clone\ParseStarterProject\src\main\AndroidManifest.xml:10:5-26:19
+ADDED from C:\Users\HP\AndroidStudioProjects\Twitter Clone\ParseStarterProject\src\main\AndroidManifest.xml:10:5-27:19
 MERGED from [com.google.android.gms:play-services:9.4.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\b10e34a49063926aec5d3432f4a49550\play-services-9.4.0\AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services:9.4.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\b10e34a49063926aec5d3432f4a49550\play-services-9.4.0\AndroidManifest.xml:5:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\f0b606c9fced75b8c2c36f0323cf799c\constraint-layout-1.1.3\AndroidManifest.xml:9:5-20
@@ -233,26 +233,30 @@ MERGED from [com.android.support:support-v4:23.0.0] C:\Users\HP\.gradle\caches\t
 		ADDED from C:\Users\HP\AndroidStudioProjects\Twitter Clone\ParseStarterProject\src\main\AndroidManifest.xml:15:9-40
 	android:name
 		ADDED from C:\Users\HP\AndroidStudioProjects\Twitter Clone\ParseStarterProject\src\main\AndroidManifest.xml:11:9-43
+activity#com.parse.starter.MyFeedActivity
+ADDED from C:\Users\HP\AndroidStudioProjects\Twitter Clone\ParseStarterProject\src\main\AndroidManifest.xml:16:9-61
+	android:name
+		ADDED from C:\Users\HP\AndroidStudioProjects\Twitter Clone\ParseStarterProject\src\main\AndroidManifest.xml:16:19-49
 activity#com.parse.starter.UsersActivity
-ADDED from C:\Users\HP\AndroidStudioProjects\Twitter Clone\ParseStarterProject\src\main\AndroidManifest.xml:16:9-60
+ADDED from C:\Users\HP\AndroidStudioProjects\Twitter Clone\ParseStarterProject\src\main\AndroidManifest.xml:17:9-51
 	android:name
-		ADDED from C:\Users\HP\AndroidStudioProjects\Twitter Clone\ParseStarterProject\src\main\AndroidManifest.xml:16:19-48
+		ADDED from C:\Users\HP\AndroidStudioProjects\Twitter Clone\ParseStarterProject\src\main\AndroidManifest.xml:17:19-48
 activity#com.parse.starter.MainActivity
-ADDED from C:\Users\HP\AndroidStudioProjects\Twitter Clone\ParseStarterProject\src\main\AndroidManifest.xml:17:9-25:20
+ADDED from C:\Users\HP\AndroidStudioProjects\Twitter Clone\ParseStarterProject\src\main\AndroidManifest.xml:18:9-26:20
 	android:label
-		ADDED from C:\Users\HP\AndroidStudioProjects\Twitter Clone\ParseStarterProject\src\main\AndroidManifest.xml:19:13-45
+		ADDED from C:\Users\HP\AndroidStudioProjects\Twitter Clone\ParseStarterProject\src\main\AndroidManifest.xml:20:13-45
 	android:name
-		ADDED from C:\Users\HP\AndroidStudioProjects\Twitter Clone\ParseStarterProject\src\main\AndroidManifest.xml:18:13-41
+		ADDED from C:\Users\HP\AndroidStudioProjects\Twitter Clone\ParseStarterProject\src\main\AndroidManifest.xml:19:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\HP\AndroidStudioProjects\Twitter Clone\ParseStarterProject\src\main\AndroidManifest.xml:20:13-24:29
+ADDED from C:\Users\HP\AndroidStudioProjects\Twitter Clone\ParseStarterProject\src\main\AndroidManifest.xml:21:13-25:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\HP\AndroidStudioProjects\Twitter Clone\ParseStarterProject\src\main\AndroidManifest.xml:21:17-69
+ADDED from C:\Users\HP\AndroidStudioProjects\Twitter Clone\ParseStarterProject\src\main\AndroidManifest.xml:22:17-69
 	android:name
-		ADDED from C:\Users\HP\AndroidStudioProjects\Twitter Clone\ParseStarterProject\src\main\AndroidManifest.xml:21:25-66
+		ADDED from C:\Users\HP\AndroidStudioProjects\Twitter Clone\ParseStarterProject\src\main\AndroidManifest.xml:22:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\HP\AndroidStudioProjects\Twitter Clone\ParseStarterProject\src\main\AndroidManifest.xml:23:17-77
+ADDED from C:\Users\HP\AndroidStudioProjects\Twitter Clone\ParseStarterProject\src\main\AndroidManifest.xml:24:17-77
 	android:name
-		ADDED from C:\Users\HP\AndroidStudioProjects\Twitter Clone\ParseStarterProject\src\main\AndroidManifest.xml:23:27-74
+		ADDED from C:\Users\HP\AndroidStudioProjects\Twitter Clone\ParseStarterProject\src\main\AndroidManifest.xml:24:27-74
 uses-sdk
 INJECTED from C:\Users\HP\AndroidStudioProjects\Twitter Clone\ParseStarterProject\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\HP\AndroidStudioProjects\Twitter Clone\ParseStarterProject\src\main\AndroidManifest.xml
